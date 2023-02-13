@@ -1,0 +1,6 @@
+2022-07-03 20:50:19,184 INFO    : Initialize...
+2022-07-03 20:50:19,400 INFO    : EVOLVE[0-gen]-Begin to evaluate the fitness
+2022-07-03 20:50:19,400 INFO    : Begin to generate python files
+2022-07-03 20:50:19,525 INFO    : Finish the generation of python files
+2022-07-03 20:50:19,525 INFO    : Query fitness from cache
+2022-07-03 20:50:19,526 INFO    : Total hit 0 individuals for fitness
